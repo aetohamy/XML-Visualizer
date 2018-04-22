@@ -1,0 +1,14 @@
+c:\users\tohamy\documents\visual studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\bin\Debug\DrKhaled.Xmrizer.exe.config
+c:\users\tohamy\documents\visual studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\bin\Debug\DrKhaled.Xmrizer.exe
+c:\users\tohamy\documents\visual studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\bin\Debug\DrKhaled.Xmrizer.pdb
+c:\users\tohamy\documents\visual studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\obj\Debug\DrKhaled.Xmrizer.csprojResolveAssemblyReference.cache
+c:\users\tohamy\documents\visual studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\obj\Debug\DrKhaled.Xmrizer.Properties.Resources.resources
+c:\users\tohamy\documents\visual studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\obj\Debug\DrKhaled.Xmrizer.csproj.GenerateResource.Cache
+c:\users\tohamy\documents\visual studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\obj\Debug\DrKhaled.Xmrizer.exe
+c:\users\tohamy\documents\visual studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\obj\Debug\DrKhaled.Xmrizer.pdb
+c:\users\tohamy\documents\visual studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\bin\Debug\MetroFramework.Design.dll
+c:\users\tohamy\documents\visual studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\bin\Debug\MetroFramework.dll
+c:\users\tohamy\documents\visual studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\bin\Debug\MetroFramework.Fonts.dll
+c:\users\tohamy\documents\visual studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\obj\Debug\DrKhaled.Xmrizer.MainForm.resources
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\obj\Debug\DrKhaled.Xmrizer.SearchForm.resources
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\DrKhaled.Xmrizer\DrKhaled.Xmrizer\obj\Debug\DrKhaled.Xmrizer.SearchResultForm.resources
